@@ -1,12 +1,6 @@
 # Shopping Cart App
  To Create E-Commerce Website Using ReactJS
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
- 
-=======
->>>>>>> Stashed changes
  # HOME PAGE
 
  ![Screenshot (3)](https://github.com/guptachirag851/Shopping-Cart-App/assets/65108167/1bfb7fe2-1a7e-4cd0-8c31-5ca023b83f25)
@@ -21,7 +15,3 @@
 
 
 
-<<<<<<< Updated upstream
-=======
->>>>>>> d8e97a92a609281b9bb8fabfdbcfd808bbf8c910
->>>>>>> Stashed changes
